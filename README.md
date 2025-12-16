@@ -8,6 +8,7 @@ wunscheliste für Weihnachten
 - pcie 4.0 nvme ssd (2tb)
 - bauteil schrank mit mini schubladen
 - weitere gute stereo Lautsprecher
+- genauer messchieber analog oder digital
 
 ## t-shirt / hoodies / mertch
 [morpheus](https://the-morpheus-tutorials.creator-spring.com/)
