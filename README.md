@@ -30,7 +30,7 @@ alles mit:
 - [Heißluft-Rework-Station](https://www.amazon.de/s?k=Hei%C3%9Fluft-Rework-Station&rh=n%3A5866098031&crid=7TRKS1XW6WFH&sprefix=hei%C3%9Fluft-rework-station%2Cindustrial%2C134)
 - 🏎️ Gute USB-C-Kabel
 - 🏎️ Entlötlitze
-- PC-Bit / IC-Clip-Probes (verschiedene Größen)
+- PCBite kit / IC-Clip-Probes (verschiedene Größen)
 - Spring-Loaded / Pogo-Pin Test-Probes
 - SOIC-Adapter
 
