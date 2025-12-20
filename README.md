@@ -28,6 +28,7 @@ alles mit:
 - kleiner Beamer für Filme vielleicht auch mal draußen im Dunkeln
 - 🏎️ SMD-Übungsplatinen (QFN/QFP/0402)
 - Heißluft-Rework-Station
+- 🏎️ Gute USB-C-Kabel
 
 ## t-shirt / hoodies / mertch
 [morpheus](https://the-morpheus-tutorials.creator-spring.com/)
