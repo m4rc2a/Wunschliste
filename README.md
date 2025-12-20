@@ -32,7 +32,6 @@ alles mit:
 - 🏎️ Entlötlitze
 - PCBite kit / IC-Clip-Probes (verschiedene Größen)
 - Spring-Loaded / Pogo-Pin Test-Probes
-- SOIC-Adapter
 
 ## t-shirt / hoodies / mertch
 [morpheus](https://the-morpheus-tutorials.creator-spring.com/)
