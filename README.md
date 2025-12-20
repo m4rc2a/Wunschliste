@@ -20,7 +20,7 @@
 - [Werkzeug-Lochwand](https://www.amazon.de/s?k=Werkzeug+Lochwand&i=diy)
 - Akkuschrauber  
   - bürstenlos (keine Schleifkontakte)  
-  - wasserdicht  
+  - wasserdicht (optional)
   - mit Drehmomentkupplung  
   - **mind. 20 Nm**
 - [Genauer Messschieber (analog oder digital)](https://www.amazon.de/dp/B0D78RZC62/)
