@@ -29,6 +29,7 @@ alles mit:
 - 🏎️ SMD-Übungsplatinen (QFN/QFP/0402)
 - Heißluft-Rework-Station
 - 🏎️ Gute USB-C-Kabel
+- 🏎️ Entlötlitze
 
 ## t-shirt / hoodies / mertch
 [morpheus](https://the-morpheus-tutorials.creator-spring.com/)
