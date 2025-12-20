@@ -11,7 +11,7 @@ wunscheliste für Weihnachten
 - weitere gute stereo Lautsprecher für zuhause (klang ist wichtiger als irgendwas smartes)
 > --> braucht kein bluetooth wlan gedöns oder so
 
-- genauer messchieber analog oder digital
+- [genauer messchieber analog oder digital](https://www.amazon.de/dp/B0D78RZC62/)
 
 ## t-shirt / hoodies / mertch
 [morpheus](https://the-morpheus-tutorials.creator-spring.com/)
