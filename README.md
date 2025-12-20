@@ -44,7 +44,7 @@
 
 - [ ] Gute **Stereo-Lautsprecher für zuhause**  
   - Klang wichtiger als Smart-Features  
-  - **kein** Bluetooth, WLAN oder sonstiges Gedöns
+  - **kein** Bluetooth, WLAN oder sonstiges nötig Gedöns
 - [ ] Kleiner Beamer  
   - für Filme  
   - ggf. auch draußen im Dunkeln
