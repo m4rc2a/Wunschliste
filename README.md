@@ -1,40 +1,69 @@
-## wunschliste
-wunscheliste für Weihnachten
+# 🎄 Wunschliste – Weihnachten
 
-alles mit:
+**Legende:**  
+🏎️ = lässt sich schnell besorgen
 
-🏎️ lässt sich schnell besorgen
+---
 
-## dinge
+## 🔧 Elektronik & Hardware
 
-- [ein zweiten nitrokey](https://shop.nitrokey.com/shop/product/nk3an-nitrokey-3a-nfc-147?search=nitrokey+3)
-- [FPGA chip oder starter kit](https://www.amazon.de/s?k=fpga+starter+kit)
-- pcie 4.0 nvme ssd (2tb)
-- [bauteil schrank mit mini schubladen](https://www.amazon.de/dp/B09TWNFB34/)
-- [Werkzeug Lochwand](https://www.amazon.de/s?k=Werkzeug+Lochwand&i=diy&crid=HGDQEOXOVN5X&sprefix=werkzeug+lochwand%2Cdiy%2C77)
-- weitere gute stereo Lautsprecher für zuhause (klang ist wichtiger als irgendwas smartes)
+- [ ] [Zweiter Nitrokey](https://shop.nitrokey.com/shop/product/nk3an-nitrokey-3a-nfc-147?search=nitrokey+3)
+- [ ] [FPGA-Chip oder Starter-Kit](https://www.amazon.de/s?k=fpga+starter+kit)
+- [ ] PCIe 4.0 NVMe SSD (2 TB)
+- [ ] PCBite Kit / IC-Clip-Probes (verschiedene Größen)
 
-	--> braucht kein bluetooth wlan oder gedöns
+---
 
-- [genauer messchieber analog oder digital](https://www.amazon.de/dp/B0D78RZC62/)
-- [computer mikroskop](https://a.aliexpress.com/_Exg9YzW) und ja die sind mitlerweile so günstig
-- 🏎️ Lötzinn
-- 🏎️ Flussmittel
-- 🏎️ Lötabsaugung
-- Akkuschrauber
-	- bürstenlos / keine schleifkontakte / wasserdicht
-	- mit Drehmomentkupplung
-	- min. 20 Nm Drehmoment
-- kleiner Beamer für Filme vielleicht auch mal draußen im Dunkeln
-- 🏎️ [SMD-Übungsplatinen (QFN/QFP/0402)](https://www.amazon.de/s?k=SMD-%C3%9Cbungsplatinen+%28QFN%2FQFP%2F0402%29&i=industrial&crid=15ND9LPGCPOHG&sprefix=smd-%C3%BCbungsplatinen+qfn%2Fqfp%2F0402+%2Cindustrial%2C127)
-- [Heißluft-Rework-Station](https://www.amazon.de/s?k=Hei%C3%9Fluft-Rework-Station&rh=n%3A5866098031&crid=7TRKS1XW6WFH&sprefix=hei%C3%9Fluft-rework-station%2Cindustrial%2C134)
-- 🏎️ Gute USB-C-Kabel
-- 🏎️ Entlötlitze
-- PCBite kit / IC-Clip-Probes (verschiedene Größen)
+## 🧰 Werkstatt & Ausstattung
 
-## t-shirt / hoodies / mertch
-[morpheus](https://the-morpheus-tutorials.creator-spring.com/)
+- [ ] [Bauteilschrank mit Mini-Schubladen](https://www.amazon.de/dp/B09TWNFB34/)
+- [ ] [Werkzeug-Lochwand](https://www.amazon.de/s?k=Werkzeug+Lochwand&i=diy)
+- [ ] Akkuschrauber  
+  - bürstenlos (keine Schleifkontakte)  
+  - wasserdicht  
+  - mit Drehmomentkupplung  
+  - **mind. 20 Nm**
+- [ ] [Genauer Messschieber (analog oder digital)](https://www.amazon.de/dp/B0D78RZC62/)
+- [ ] [Computer-Mikroskop](https://a.aliexpress.com/_Exg9YzW)  
+  *(inzwischen erstaunlich günstig)*
 
-## links 
-https://hackerwarehouse.com/
-https://shop.hak5.org/
+---
+
+## 🔥 Löten & Rework
+
+- [ ] 🏎️ Lötzinn
+- [ ] 🏎️ Flussmittel
+- [ ] 🏎️ Lötabsaugung
+- [ ] 🏎️ Entlötlitze
+- [ ] 🏎️ [SMD-Übungsplatinen (QFN / QFP / 0402)](https://www.amazon.de/s?k=SMD-%C3%9Cbungsplatinen+%28QFN%2FQFP%2F0402%29&i=industrial)
+- [ ] [Heißluft-Rework-Station](https://www.amazon.de/s?k=Hei%C3%9Fluft-Rework-Station&rh=n%3A5866098031)
+
+---
+
+## 🔊 Audio & Video
+
+- [ ] Gute **Stereo-Lautsprecher für zuhause**  
+  - Klang wichtiger als Smart-Features  
+  - **kein** Bluetooth, WLAN oder sonstiges Gedöns
+- [ ] Kleiner Beamer  
+  - für Filme  
+  - ggf. auch draußen im Dunkeln
+
+---
+
+## 🔌 Zubehör
+
+- [ ] 🏎️ Gute USB-C-Kabel
+
+---
+
+## 👕 T-Shirts / Hoodies / Merch
+
+- [ ] [Morpheus](https://the-morpheus-tutorials.creator-spring.com/)
+
+---
+
+## 🔗 Shops & Inspiration
+
+- https://hackerwarehouse.com/
+- https://shop.hak5.org/
