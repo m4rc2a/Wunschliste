@@ -7,7 +7,9 @@ wunscheliste für Weihnachten
 - FPGA chip oder starter kit
 - pcie 4.0 nvme ssd (2tb)
 - bauteil schrank mit mini schubladen
-- weitere gute stereo Lautsprecher
+- weitere gute stereo Lautsprecher für zuhause (klang ist wichtiger als irgendwas smartes)
+> --> braucht kein bluetooth wlan gedöns oder so
+
 - genauer messchieber analog oder digital
 
 ## t-shirt / hoodies / mertch
