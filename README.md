@@ -14,7 +14,7 @@ alles mit:
 - [Werkzeug Lochwand](https://www.amazon.de/s?k=Werkzeug+Lochwand&i=diy&crid=HGDQEOXOVN5X&sprefix=werkzeug+lochwand%2Cdiy%2C77)
 - weitere gute stereo Lautsprecher für zuhause (klang ist wichtiger als irgendwas smartes)
 
-	--> braucht kein bluetooth wlan gedöns
+	--> braucht kein bluetooth wlan oder gedöns
 
 - [genauer messchieber analog oder digital](https://www.amazon.de/dp/B0D78RZC62/)
 - [computer mikroskop](https://a.aliexpress.com/_Exg9YzW) und ja die sind mitlerweile so günstig
