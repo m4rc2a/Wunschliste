@@ -17,9 +17,9 @@ wunscheliste für Weihnachten
 - Flussmittel
 - Lötabsaugung
 - Akkuschrauber
-> - bürstenlos / keine schleifkontakte / wasserdicht
-> - mit Drehmomentkupplung
-> - min. 20 Nm Drehmoment
+	- bürstenlos / keine schleifkontakte / wasserdicht
+	- mit Drehmomentkupplung
+	- min. 20 Nm Drehmoment
 
 ## t-shirt / hoodies / mertch
 [morpheus](https://the-morpheus-tutorials.creator-spring.com/)
