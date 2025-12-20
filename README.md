@@ -26,6 +26,8 @@ alles mit:
 	- mit Drehmomentkupplung
 	- min. 20 Nm Drehmoment
 - kleiner Beamer für Filme vielleicht auch mal draußen im Dunkeln
+- 🏎️ SMD-Übungsplatinen (QFN/QFP/0402)
+- Heißluft-Rework-Station
 
 ## t-shirt / hoodies / mertch
 [morpheus](https://the-morpheus-tutorials.creator-spring.com/)
