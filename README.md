@@ -3,7 +3,7 @@ wunscheliste für Weihnachten
 
 alles mit:
 
-- 🏎️ lässt sich schnell besorgen
+🏎️ lässt sich schnell besorgen
 
 ## dinge
 
