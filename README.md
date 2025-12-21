@@ -49,7 +49,7 @@
   - für Filme  
   - ggf. auch draußen im Dunkeln
   - Beispiele:
-	   - [Beamer ca. 60€](https://www.amazon.co.uk/dp/B0CRYT2X6S?linkCode=xm2&camp=2025&creative=165953&smid=A3RZL6D92WJ57A&creativeASIN=B0CRYT2X6S&tag=geizhals-am-21)
+	   - [Beamer ca. 60€](https://www.amazon.co.uk/dp/B0CRYT2X6S/)
 			- [Beamer ca. 90€](https://www.amazon.co.uk/dp/B0BMQDC9G9/)
 
 ---
