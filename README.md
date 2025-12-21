@@ -50,7 +50,7 @@
   - ggf. auch draußen im Dunkeln
   - Beispiele:
 	   - [Beamer ca. 60€](https://www.amazon.co.uk/dp/B0CRYT2X6S/)
-			- [Beamer ca. 90€](https://www.amazon.co.uk/dp/B0BMQDC9G9/)
+    - [Beamer ca. 90€](https://www.amazon.co.uk/dp/B0BMQDC9G9/)
 
 ---
 
