@@ -1,4 +1,4 @@
-# 🎄 Wunschliste – Weihnachten
+# Wunschliste
 
 **Legende:**  
 🏎️ = lässt sich schnell besorgen
@@ -29,7 +29,7 @@
 
 ---
 
-## 🪄 Löten
+## Löten
 
 - 🏎️ Lötzinn
 - 🏎️ Flussmittel
