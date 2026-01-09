@@ -12,8 +12,6 @@
 - PCIe 4.0 NVMe SSD (2 TB)
 - PCBite Kit / IC-Clip-Probes (verschiedene Größen)
 
----
-
 ## 🧰 Werkstatt & Ausstattung
 
 - [Bauteilschrank mit Mini-Schubladen](https://www.amazon.de/dp/B09TWNFB34/)
@@ -27,8 +25,6 @@
 - [Computer-Mikroskop](https://a.aliexpress.com/_Exg9YzW)  
   *(inzwischen erstaunlich günstig)*
 
----
-
 ## Löten
 
 - 🏎️ Lötzinn
@@ -37,8 +33,6 @@
 - 🏎️ Entlötlitze
 - 🏎️ [SMD-Übungsplatinen (QFN / QFP / 0402)](https://www.amazon.de/s?k=SMD-%C3%9Cbungsplatinen+%28QFN%2FQFP%2F0402%29&i=industrial)
 - [Heißluft-Rework-Station](https://www.amazon.de/s?k=Hei%C3%9Fluft-Rework-Station&rh=n%3A5866098031)
-
----
 
 ## 🔊 Audio & Video
 
@@ -52,19 +46,13 @@
 	   - [Beamer ca. 60€](https://www.amazon.co.uk/dp/B0CRYT2X6S/)
     - [🏎️ Beamer ca. 90€](https://www.amazon.co.uk/dp/B0BMQDC9G9/)
 
----
-
 ## 🔌 Zubehör
 
 - 🏎️ Gute USB-C-Kabel
 
----
-
 ## 👕 T-Shirts / Hoodies / Merch
 
 - [Morpheus](https://the-morpheus-tutorials.creator-spring.com/)
-
----
 
 ## 🔗 Shops & Inspiration
 
